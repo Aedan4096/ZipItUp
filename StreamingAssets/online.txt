@@ -1,0 +1,3 @@
+# Zip It Up! online leaderboard + cloud saves (Firebase project "zipitup").
+databaseURL=https://zipitup-default-rtdb.firebaseio.com
+apiKey=AIzaSyAOAyGhJXKwmPAuCq1ftZsW43Vp2wSB8Sc
